@@ -20,27 +20,5 @@ Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 
 Con esto tendremos completa la instalación de nuestra tarjeta ESP32 y lista para ser programada.	 
 
-## Instalación USB Driver ***(Si no reconoce el puerto COM)***
-
-En algunos casos nuestra PC no es capaz de reconocer el dispositivo USB que nosotros conectamos, es por ello que dejaremos un archivo para la instalación del driver con ello nuestra PC deberá ser capaz de reconocer el dispositivo conectado, en caso de que el problema persista asegúrese de que su dispositivo no se este sobre calentando.
-
-[Descarga este driver para Windows][DRIVER_USB]
-
-[DRIVER_USB]: https://www.arduined.eu/files/windows10/CH341SER.zip
-
-1. Descomprimir el archivo ZIP descargado 
-2. Seleccionar el archivo para instalación de Windows
-	- SETUP.exe
-3. Seleccionar CH341SER.INF
-4. Click en la opción ***Install***
-5. Cuando este instalado cerrar la ventana y listo.!
-
-Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en el Sistema Operativo Windows.
-
-Puede seguir está guía para la instalación como una segunda opción 
-
-[Sigue la guía para instalar el driver CH340][DRIVER_CH340]
-
-[DRIVER_CH340]: https://www.arduined.eu/ch340-windows-10-driver-download/
 
 
